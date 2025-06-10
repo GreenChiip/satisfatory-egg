@@ -4,7 +4,7 @@ Satisfactory is a first-person open-world factory building game with a dash of e
 
 ## TO NOTE
 New server variables have been added to the egg.
-* `-ReliablePort` - Allows you to specify a port for the Reliable Messaging TCP Factory.
+* `ReliablePort` - Allows you to specify a port for the Reliable Messaging TCP Factory.
 
 
 ## Dedicated Server - Port Forwarding Updates
